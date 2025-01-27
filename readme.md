@@ -95,7 +95,7 @@ Choosing the right healthcare products can be overwhelming with the vast number 
 
 ## Live Website and Resources
 
-- **Website Link**: [MediPlus](https://github.com/MohdSohail2461/pranathi.git)
+- **Website Link**: [MediPlus](https://github.com/typical-pentester/Azure-MagicBus-Project)
 - **Demo Video**: [video link ](https://drive.google.com/file/d/11Q-mJsoEwPNA-NsrP8FwVMfpvXQ_p_H7/view?usp=drive_link)
 - **Screenshots**:
   **Created Resource Group Screenshot**
